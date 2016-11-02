@@ -1,0 +1,42 @@
+SystemID N64
+0D1113	b	u	1	RDRAM	player 1 coins
+0D1116	b	u	1	RDRAM	player 1 stars
+0D1120	b	h	1	RDRAM	player 1 item 1
+0D1121	b	h	1	RDRAM	player 1 item 2
+0D1122	b	h	1	RDRAM	player 1 item 3
+0	S	_	1		
+0D114B	b	u	1	RDRAM	player 2 coins
+0D114E	b	u	1	RDRAM	player 2 stars
+0D1158	b	h	1	RDRAM	player 2 item 1
+0D1159	b	h	1	RDRAM	player 2 item 2
+0D1159	b	h	1	RDRAM	player 2 item 3
+0D114F	b	u	1	RDRAM	
+0D1150	b	u	1	RDRAM	
+0D1151	b	u	1	RDRAM	
+0D1152	b	u	1	RDRAM	
+0D1156	b	u	1	RDRAM	
+0D115C	b	u	1	RDRAM	player 2 color?
+0D116E	b	u	1	RDRAM	player 2 turn finished?
+0	S	_	1		
+0D1183	b	u	1	RDRAM	player 3 coins
+0D1186	b	u	1	RDRAM	player 3 stars
+0D1190	b	h	1	RDRAM	player 3 item 1
+0D1191	b	h	1	RDRAM	player 3 item 2
+0D1192	b	h	1	RDRAM	player 3 item 3
+0	S	_	1		
+0D11BB	b	u	1	RDRAM	player 4 coins
+0D11BE	b	u	1	RDRAM	player 4 stars
+0D11C8	b	h	1	RDRAM	player 4 item 1
+0D11C9	b	h	1	RDRAM	player 4 item 2
+0D11CA	b	h	1	RDRAM	player 4 item 3
+0	S	_	1		
+0CDBD5	b	u	1	RDRAM	player 1 die roll
+0CDC21	b	u	1	RDRAM	player 2 die roll
+0CDC6D	b	u	1	RDRAM	player 3 die roll
+0CDCB9	b	u	1	RDRAM	player 4 die roll
+0	S	_	1		
+0CE1C4	w	h	1	RDRAM	hidden coin block pos
+0D124E	w	h	1	RDRAM	hidden star box pos
+0CC4E4	w	h	1	RDRAM	hidden item box pos
+0CD068	w	h	1	RDRAM	Active player position
+
